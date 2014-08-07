@@ -1,0 +1,25 @@
+{
+  "name": "easymongoose-security",
+  "version": "0.1.0",
+  "description": "Easily add some security rules around your Mongoose schemas",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nathanoehlman/easymongoose-security.git"
+  },
+  "author": "Nathan Oehlman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nathanoehlman/easymongoose-security/issues"
+  },
+  "homepage": "https://github.com/nathanoehlman/easymongoose-security",
+  "devDependencies": {
+    "easymongoosedb": "^0.1.1"
+  },
+  "dependencies": {
+    "lodash": "^2.4.1"
+  }
+}
